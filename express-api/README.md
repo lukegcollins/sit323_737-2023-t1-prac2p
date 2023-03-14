@@ -3,7 +3,7 @@
 ## Submissions
 - [Postgres Address Book](/express-api/): This implementation includes what was covered in the week two practical class, using an array as a local repository. 
 
-    - [index.js](/express-api-pg/index.js) - The main project logic file.
+    - [index.js](/express-api/index.js) - The main project logic file.
 
 
 ## Installation Instructions
